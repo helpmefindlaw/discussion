@@ -1,3 +1,5 @@
+# Discussion Board
+
 Welcome to the HelpMeFindLaw GitHub Discussion Board!
 
 We're collecting feedback, answering questions and everything else in [Discussions](https://github.com/helpmefindlaw/discussion/discussions) - join us there.
